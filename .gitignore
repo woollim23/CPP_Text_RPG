@@ -1,4 +1,6 @@
-# Prerequisites
+# =========================
+#  C/C++ 일반
+# =========================
 *.d
 
 # Compiled Object files
@@ -10,6 +12,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
 
 # Compiled Dynamic libraries
 *.so
@@ -30,3 +33,39 @@
 *.exe
 *.out
 *.app
+
+# =========================
+#  Visual Studio
+# =========================
+
+# Visual Studio per-user 설정 / IntelliSense 캐시 (이번 오류 원인)
+.vs/
+
+# 빌드 출력 폴더
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+
+# 빌드 산출물 / 로그
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.tlog
+*.recipe
+*.log
+
+# 사용자 개인 설정
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
