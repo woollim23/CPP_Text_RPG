@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\main.cpp",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\main.cpp",
-              "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\main.cpp*",
-              "RelativeToolTip": "CPP_Text_RPG\\main.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswB0AAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\main.cpp",
+              "RelativeToolTip": "CPP_Text_RPG\\main.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-02T11:03:18.738Z",
               "EditorCaption": ""
