@@ -10,7 +10,7 @@ int main()
 	int HP = 5;
 	int MP = 5;
 	bool isGameStart = false;
-	Player* player;
+	Player* player = nullptr;
 
 	cout << endl << "===========================================" << endl;
 	cout << "       [ 던전 탈출 텍스트 RPG ]" << endl;
@@ -35,7 +35,28 @@ int main()
 			break;
 	}
 
-	player = new Warrior(name, stat[0], stat[1], stat[2], stat[3]);
+
+	int jobChoice;
+	while (true) {
+		cout << "< 전직 시스템 >" << endl;
+		cout << name << "님, 직업을 선택해주세요!" << endl;
+		cout << "1. 전사" << endl;
+		cout << "선택: ";
+		cin >> jobChoice;
+		if (jobChoice >= 1 && jobChoice <= 1) break;
+		cout << "잘못된 입력입니다. 다시 선택해주세요." << endl;
+	}
+
+	switch (jobChoice) {
+	case 1: 
+		player = new Warrior(name, stat[0], stat[1], stat[2], stat[3]);
+		break;
+	}
+
+	cout << "* " << player->getJob() << "로 전직하였습니다." << endl;
+	player->attack();   // 첫 스킬 미리보기
+	player->printStatus();
+
 	player->printStatus();
 
 	player->setStat(HP, MP, isGameStart);

@@ -4,12 +4,19 @@
 class Warrior : public Player
 {
 public:
+
+	Warrior()
+	{
+
+	}
+
 	Warrior(string name, int hp, int mp, int power, int defence)
-		:Player(name, hp, mp, power, defence)
+		:Player(name, "ภüป็", hp, mp, power, defence)
 	{
 		this->hp += 30;
 	}
 
-	void attack() override;
 	~Warrior() override;
+
+	void attack() override;
 };

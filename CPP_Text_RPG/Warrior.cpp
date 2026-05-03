@@ -1,4 +1,3 @@
-#include "warning.h"
 #include "Warrior.h"
 
 void Warrior::attack()

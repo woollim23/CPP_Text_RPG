@@ -1,7 +1,6 @@
-﻿  Warrior.cpp
-  Warrior.h
-  main.cpp
+﻿  main.cpp
+  Player.cpp
+  Warrior.cpp
+C:\Users\begin\Documents\GitHub\CPP_Text_RPG\CPP_Text_RPG\Warrior.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   코드를 생성하고 있습니다...
-x64\Debug\Player.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
-x64\Debug\Warrior.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
   CPP_Text_RPG.vcxproj -> C:\Users\begin\Documents\GitHub\CPP_Text_RPG\x64\Debug\CPP_Text_RPG.exe
