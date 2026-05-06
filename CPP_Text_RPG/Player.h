@@ -1,34 +1,29 @@
 #pragma once
 #include "pch.h"
+#include "Characters.h"
 
 
-class Player
+class Player : public Characters
 {
 protected:
-	string name;
-	string job;
-	int level;
-	int hp;
-	int mp;
-	int power;
-	int defence;
+	string name_;
+	int hp_;
+	int power_;
+	int defence_;
+
+	string job_;
+	int level_;
+	int mp_;
 
 public:
-	Player()
-		:name("없음"), hp(0), mp(0), power(0), defence(0)
-	{
-		job = "없음";
-		level = 1;
-	}
+	Player() {}
 	Player(string name, string job, int hp, int mp, int power, int defence)
-		:name(name), job(job), hp(hp), mp(mp), power(power), defence(defence)
-	{
-		level = 1;
-	}
+		: Characters(name, hp, power, defence), job_(job), level_(1), mp_(mp)
+	{}
 	virtual ~Player() {}
 
-	virtual void attack() = 0;
+	virtual void attack(Characters* attacker, Characters* target) override;
 	void printStatus();
 	void setStat(int& HP, int& MP, bool& isGameStart);
-	string getJob() { return job; }
+	string getJob() const { return job_; }
 };

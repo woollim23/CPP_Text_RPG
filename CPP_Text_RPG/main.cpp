@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+	/* 캐릭터 생성 */
 	string name;
 	int HP = 5;
 	int MP = 5;
@@ -35,15 +36,17 @@ int main()
 			break;
 	}
 
-
 	int jobChoice;
 	while (true) {
+		cout << endl << "====================================" << endl;
 		cout << "< 전직 시스템 >" << endl;
+		cout << "====================================" << endl;
 		cout << name << "님, 직업을 선택해주세요!" << endl;
 		cout << "1. 전사" << endl;
 		cout << "선택: ";
 		cin >> jobChoice;
 		if (jobChoice >= 1 && jobChoice <= 1) break;
+		system("cls");
 		cout << "잘못된 입력입니다. 다시 선택해주세요." << endl;
 	}
 
@@ -52,15 +55,22 @@ int main()
 		player = new Warrior(name, stat[0], stat[1], stat[2], stat[3]);
 		break;
 	}
+	
+	system("cls");
 
 	cout << "* " << player->getJob() << "로 전직하였습니다." << endl;
-	player->attack();   // 첫 스킬 미리보기
-	player->printStatus();
-
+	
 	player->printStatus();
 
 	player->setStat(HP, MP, isGameStart);
 
+	/* 전투 */
+	cout << endl << "====================================" << endl;
+	cout << "< 전투 하시겠습니까? >" << endl;
+	cout << "1. 예     2. 아니오" << endl;
+	cout << "====================================" << endl;
+
+	/* 게임 종료 */
 	delete player;
 	return 0;
 }

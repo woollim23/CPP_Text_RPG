@@ -1,6 +1,6 @@
 #include "Warrior.h"
 
-void Warrior::attack()
+void Warrior::attack(Characters* attacker, Characters* target)
 {
 	cout << "워리어 공격!" << endl;
 }

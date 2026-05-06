@@ -1,6 +1,11 @@
-﻿  main.cpp
+﻿  Battle.cpp
+C:\Users\begin\Documents\GitHub\CPP_Text_RPG\CPP_Text_RPG\Battle.h(6,14): warning C4091: 'static ': 변수를 선언하지 않으면 'Battle' 왼쪽은 무시됩니다.
+  (소스 파일 'Battle.cpp'을(를) 컴파일하는 중)
+  
+  Characters.cpp
+  Monster.cpp
   Player.cpp
   Warrior.cpp
-C:\Users\begin\Documents\GitHub\CPP_Text_RPG\CPP_Text_RPG\Warrior.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  main.cpp
   코드를 생성하고 있습니다...
   CPP_Text_RPG.vcxproj -> C:\Users\begin\Documents\GitHub\CPP_Text_RPG\x64\Debug\CPP_Text_RPG.exe
