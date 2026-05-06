@@ -18,4 +18,7 @@ public:
 
 	virtual void attack(Characters* attacker, Characters* target) override;
 	string getJob() const { return job_; }
+
+	void printStatus();
+	void setStat(int& HP, int& MP, bool& isGameStart);
 };

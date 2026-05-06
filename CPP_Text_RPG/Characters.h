@@ -21,12 +21,9 @@ protected:
 public:
 	virtual void attack(Characters *attacker, Characters *target);
 
-	void printStatus();
-	void setStat(int& HP, int& MP, bool& isGameStart);
-
 	virtual void loseHp(int damage);
 	int getHP() { return hp_; }
-	int setHP(int insetHp) { hp_ = insetHp; }
+	void setHP(int insetHp) { hp_ = insetHp; }
 	int getPower() { return power_; }
 	int getDefence() { return defence_; }
 };
