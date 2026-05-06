@@ -8,7 +8,7 @@ class Monster : public Characters
 	int dropItemPrice_;
 
 	Monster()
-		:Characters("°íºí¸°", 30, 20, 10), dropItemName_("°ñµå"), dropItemPrice_(500)
+		:Characters("°íºí¸°", 30, 30, 20, 10), dropItemName_("°ñµå"), dropItemPrice_(500)
 	{}
 
 public:

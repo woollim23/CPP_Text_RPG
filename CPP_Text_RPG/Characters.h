@@ -6,19 +6,24 @@ class Characters
 protected:
 	string name_;
 	int hp_;
+	int mp_;
 	int power_;
 	int defence_;
 
 	Characters() {}
 
-	Characters(string name, int hp, int power, int defence)
-		: name_(name), hp_(hp), power_(power), defence_(defence)
+	Characters(string name, int hp, int mp, int power, int defence)
+		: name_(name), hp_(hp), mp_(mp), power_(power), defence_(defence)
 	{
 
 	}
 
 public:
 	virtual void attack(Characters *attacker, Characters *target);
+
+	void printStatus();
+	void setStat(int& HP, int& MP, bool& isGameStart);
+
 	virtual void loseHp(int damage);
 	int getHP() { return hp_; }
 	int setHP(int insetHp) { hp_ = insetHp; }
