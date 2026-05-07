@@ -1,13 +1,10 @@
 #include "Characters.h"
 void Characters::attack(Characters* attacker, Characters* target)
 {
-	target->loseHp(attacker->power_);
+	Battle::battleSystem(attacker, target);
 }
 
 void Characters::loseHp(int damage)
 {
-	int resultDamage = damage - defence_;
-	if (resultDamage <= 0)
-		resultDamage = 1;
-	hp_ -= resultDamage;
+	hp_ -= damage;
 }

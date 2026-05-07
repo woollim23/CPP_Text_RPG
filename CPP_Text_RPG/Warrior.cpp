@@ -2,7 +2,8 @@
 
 void Warrior::attack(Characters* attacker, Characters* target)
 {
-	cout << "워리어 공격!" << endl;
+	Player::attack(attacker, target);
+	cout << "워리어 공격!!!!!!" << endl;
 }
 
 Warrior::~Warrior()

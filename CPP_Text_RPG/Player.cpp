@@ -2,6 +2,11 @@
 
 void Player::attack(Characters* attacker, Characters* target)
 {
+	cout << endl << "====================================" << endl;
+	cout << "<" << name_ << " °ø°İ Â÷·Ê!>" << endl;
+	cout << endl << "====================================" << endl;
+
+	Characters::attack(attacker, target);
 }
 
 void Player::printStatus()

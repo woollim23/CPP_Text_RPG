@@ -1,5 +1,6 @@
 #pragma once
 #include "pch.h"
+#include "Battle.h"
 
 class Characters
 {
@@ -10,6 +11,8 @@ protected:
 	int power_;
 	int defence_;
 
+public:
+
 	Characters() {}
 
 	Characters(string name, int hp, int mp, int power, int defence)
@@ -17,11 +20,9 @@ protected:
 	{
 
 	}
-
-public:
 	virtual void attack(Characters *attacker, Characters *target);
 
-	virtual void loseHp(int damage);
+	void loseHp(int damage);
 	int getHP() { return hp_; }
 	void setHP(int insetHp) { hp_ = insetHp; }
 	int getPower() { return power_; }

@@ -2,6 +2,7 @@
 #include "pch.h"
 #include "Player.h"
 #include "Warrior.h"
+#include "Monster.h"
 using namespace std;
 
 int main()
@@ -69,6 +70,54 @@ int main()
 	cout << "< 전투 하시겠습니까? >" << endl;
 	cout << "1. 예     2. 아니오" << endl;
 	cout << "====================================" << endl;
+
+	int isBattleStart = false;
+
+	while (!isGameStart)
+	{
+		int num = 0;
+		switch (num)
+		{
+		case 1:
+			isGameStart = true;
+			break;
+		case 2:
+			break;
+		default:
+			cout << "잘못 입력하셨습니다.";
+			break;
+		}
+	}
+
+	Monster* monster = new Monster();
+	bool isBattle = 1; // 1 - 플레이어 선공, 2 - 몬스터 선공
+
+	while (player->getHP() > 0 && monster->getHP() > 0)
+	{
+		switch (isBattle)
+		{
+		case 1:
+			player->attack(player, monster);
+			isBattle = 2;
+			break;
+		case 2:
+			monster->attack(monster, player);
+			isBattle = 1;
+			break;
+		default:
+			cout << "게임 오류";
+			break;
+		}
+
+		if (player->getHP() <= 0)
+		{
+			cout << "몬스터 승리!!";
+		}
+		else if (monster->getHP() <= 0)
+		{
+			cout << "플레이어 승리!!";
+		}
+	}
 
 	/* 게임 종료 */
 	delete player;

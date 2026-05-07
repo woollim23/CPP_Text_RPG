@@ -2,9 +2,10 @@
 #include "pch.h"
 #include "Monster.h"
 #include "Player.h"
+#include "Characters.h"
 
 static class Battle
 {
 public:
-	void battleSystem(Monster* attacker, Player player);
+	static void battleSystem(Characters* attacker, Characters* target);
 };
