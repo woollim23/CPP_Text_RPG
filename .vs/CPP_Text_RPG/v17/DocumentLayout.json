@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Characters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Characters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97A27701-938C-4989-B970-C3C247B2F9B1}|CPP_Text_RPG\\CPP_Text_RPG.vcxproj|solutionrelative:CPP_Text_RPG\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Characters.h",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Characters.h",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Characters.h",
@@ -66,8 +66,7 @@
               "RelativeToolTip": "CPP_Text_RPG\\Characters.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T03:35:44.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T03:35:44.455Z"
             },
             {
               "$type": "Document",
@@ -77,27 +76,26 @@
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Characters.cpp",
               "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Characters.cpp",
               "RelativeToolTip": "CPP_Text_RPG\\Characters.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T14:27:10.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T14:27:10.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Battle.h",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.h",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Battle.h",
               "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.h",
               "RelativeToolTip": "CPP_Text_RPG\\Battle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-03T23:11:54.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Warrior.h",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Warrior.h",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Warrior.h",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "CPP_Text_RPG\\Warrior.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-03T03:00:32.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T03:00:32.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Warrior.cpp",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Warrior.cpp",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Warrior.cpp",
@@ -118,44 +115,42 @@
               "RelativeToolTip": "CPP_Text_RPG\\Warrior.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-03T04:07:31.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T04:07:31.048Z"
             }
           ]
         },
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Battle.cpp",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.cpp",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Battle.cpp",
               "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Battle.cpp",
               "RelativeToolTip": "CPP_Text_RPG\\Battle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-07T05:13:46.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Player.h",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Player.h",
               "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Player.h",
               "RelativeToolTip": "CPP_Text_RPG\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-03T03:15:53.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T03:15:53.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Player.cpp",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Player.cpp",
@@ -163,25 +158,24 @@
               "RelativeToolTip": "CPP_Text_RPG\\Player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-03T04:07:21.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T04:07:21.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Monster.h",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Monster.h",
               "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Monster.h",
               "RelativeToolTip": "CPP_Text_RPG\\Monster.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-03T22:59:48.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\Monster.cpp",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\Monster.cpp",
@@ -189,21 +183,19 @@
               "RelativeToolTip": "CPP_Text_RPG\\Monster.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-03T23:10:06.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T23:10:06.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\main.cpp",
               "RelativeDocumentMoniker": "CPP_Text_RPG\\main.cpp",
               "ToolTip": "C:\\Users\\begin\\Documents\\GitHub\\CPP_Text_RPG\\CPP_Text_RPG\\main.cpp",
               "RelativeToolTip": "CPP_Text_RPG\\main.cpp",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-03T03:00:31.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T03:00:31.42Z"
             }
           ]
         }
