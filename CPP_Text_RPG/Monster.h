@@ -10,7 +10,7 @@ class Monster : public Characters
 
 public:
 	Monster()
-		:Characters("°íºí¸°", 30, 30, 20, 10), dropItemName_("°ñµå"), dropItemPrice_(500)
+		:Characters("°íºí¸°", 300, 30, 20, 10), dropItemName_("°ñµå"), dropItemPrice_(500)
 	{
 	}
 	void attack(Characters* attacker, Characters* target);

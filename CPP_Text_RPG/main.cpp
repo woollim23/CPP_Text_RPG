@@ -67,19 +67,19 @@ int main()
 
 	/* 전투 */
 	cout << endl << "====================================" << endl;
-	cout << "< 전투 하시겠습니까? >" << endl;
-	cout << "1. 예     2. 아니오" << endl;
+	cout << "< 전투 하시겠습니다>" << endl;
 	cout << "====================================" << endl;
 
-	int isBattleStart = false;
+	
 
 	while (!isGameStart)
 	{
 		int num = 0;
+		cin >> num;
 		switch (num)
 		{
 		case 1:
-			isGameStart = true;
+			isGameStart = false;
 			break;
 		case 2:
 			break;
@@ -90,7 +90,7 @@ int main()
 	}
 
 	Monster* monster = new Monster();
-	bool isBattle = 1; // 1 - 플레이어 선공, 2 - 몬스터 선공
+	int isBattle = 1; // 1 - 플레이어 선공, 2 - 몬스터 선공
 
 	while (player->getHP() > 0 && monster->getHP() > 0)
 	{
