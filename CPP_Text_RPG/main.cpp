@@ -5,6 +5,13 @@
 #include "Monster.h"
 using namespace std;
 
+struct Item
+{
+	string name_;
+	int price_;
+	void PrintInfo() const;
+};
+
 int main()
 {
 	/* 캐릭터 생성 */
