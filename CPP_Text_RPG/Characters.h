@@ -10,7 +10,7 @@ protected:
 	int mp_;
 	int power_;
 	int defence_;
-
+	//test
 public:
 
 	Characters() {}
